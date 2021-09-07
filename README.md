@@ -51,7 +51,7 @@ When I was done exploring these things I realized I had answered the following q
 
 * Do four-word phrases (ngrams) help distinguish between sentiments?
 
-<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/fourword.png" height="300">
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/fourword.png" height="500">
 
 I also created some Word Clouds:
 
@@ -71,10 +71,10 @@ I also created some Word Clouds:
 <img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/negtokens.png" height="300">
 
 # Apple Tokens Word Cloud
-<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/appletokens.png" height="300">
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/appletokens.png" height="450">
 
 # Google Tokens Word Cloud
-<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/googletokens.png" height="300">
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/googletokens.png" height="450">
 
 
 ### Model
