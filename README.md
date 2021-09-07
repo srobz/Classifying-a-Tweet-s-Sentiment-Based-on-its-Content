@@ -39,7 +39,7 @@ When I was done exploring these things I realized I had answered the following q
 
 * How are the tweets spread?
     
-<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/TweetsPerEmotion.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/TweetsPerEmotion.png" height="1000">
 
 ![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/TweetsPerBrand.png)
 
