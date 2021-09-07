@@ -39,7 +39,8 @@ When I was done exploring these things I realized I had answered the following q
 
 * How are the tweets spread?
     
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/TweetsPerEmotion.png)
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/TweetsPerEmotion.png" width="100" height="100">
+
 ![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/TweetsPerBrand.png)
 
 * What is the spread of tweet sentiment among brands?
