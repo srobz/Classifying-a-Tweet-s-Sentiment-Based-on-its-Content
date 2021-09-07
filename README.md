@@ -43,39 +43,38 @@ When I was done exploring these things I realized I had answered the following q
 
 * What is the spread of tweet sentiment among brands?
 
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/TweetsEmotionBrand.png)
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/TweetsEmotionBrand.png" height="300">
     
 * How much did preprocessing change the length of tweets?
-    
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/CharacterCount.png)
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/TokenCount.png)
+
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/CharacterCount.png" height="300"> <img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/TokenCount.png" height="300">
 
 * Do four-word phrases (ngrams) help distinguish between sentiments?
 
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/fourword.png)
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/fourword.png" height="300">
 
 I also created some Word Clouds:
 
 # All Hashtags Word Cloud
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/hashtags.png)
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/hashtags.png" height="300">
 
 # All Tokens Word Cloud
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/alltokens.png)
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/alltokens.png" height="300">
 
 # Positive Tokens Word Cloud
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/postokens.png)
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/postokens.png" height="300">
 
 # Neutral Tokens Word Cloud
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/neutraltokens.png)
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/neutraltokens.png" height="300">
 
 # Negative Tokens Word Cloud
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/negtokens.png)
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/negtokens.png" height="300">
 
 # Apple Tokens Word Cloud
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/appletokens.png)
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/appletokens.png" height="300">
 
 # Google Tokens Word Cloud
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/googletokens.png)
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/googletokens.png" height="300">
 
 
 ### Model
@@ -91,8 +90,7 @@ My final model was Logistic Regression using Count Vectorizer with class weight 
 
 Regarding our precision recall curve; the curve for neutral is looking good and the score is enough that we would consider neutral to be a good classifier. The curve for positive is considerably worse at .63, and would be considered a bad classifier. The curve for negative is very bad, and performs worse than a random classifier would.
 
-![graph](https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/precrecall.png)
-
+<img src="https://raw.githubusercontent.com/srobz/Classifying-a-Tweet-s-Sentiment-Based-on-its-Content/main/Visualizations/precrecall.png" height="300">
 
     
 
